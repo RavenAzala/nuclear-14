@@ -211,6 +211,7 @@
   - type: Wires
     layoutId: AirlockService
 
+# Corvax-Change-Start
 - type: entity
   parent: N14DoorWoodRedSlanted
   id: N14DoorWoodSlantedLockedTownsPerson
@@ -240,6 +241,7 @@
     access: [["TownsPerson"]]
   - type: Wires
     layoutId: AirlockService
+# Corvax-Change-End
 
 #MARK: Vault
 - type: entity
