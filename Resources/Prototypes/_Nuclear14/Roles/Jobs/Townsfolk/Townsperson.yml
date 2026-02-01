@@ -11,7 +11,7 @@
       species:
       - Human
       - Ghoul
-      - Supermutant # Corvax-Change
+      #- Supermutant # Corvax-Change
     - !type:CharacterOverallTimeRequirement
       min: 3600 # 1 hour
   startingGear: TownspersonGear
