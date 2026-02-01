@@ -11,11 +11,13 @@
       species:
       - Human
       - Ghoul
+      - Supermutant # Corvax-Change
     - !type:CharacterOverallTimeRequirement
       min: 3600 # 1 hour
   startingGear: TownspersonGear
   icon: "JobIconTownPerson" # Corvax-Change
   supervisors: job-supervisors-townsfolk
+  alwaysUseSpawner: true # Corvax-Change
   access:
   - TownsPerson # Corvax-Change
   special:
