@@ -518,7 +518,6 @@
   components:
   - type: SpawnPoint
     job_id: Townsperson
-    spawn_type: LateJoin # Corvax-Change
   - type: Sprite
     sprite: _Nuclear14/Markers/Jobs/town.rsi
     layers:
@@ -532,7 +531,6 @@
   components:
   - type: SpawnPoint
     job_id: TownMechanic
-    spawn_type: LateJoin # Corvax-Change
   - type: Sprite
     layers:
       - state: green
@@ -545,7 +543,6 @@
   components:
   - type: SpawnPoint
     job_id: TownDoctor
-    spawn_type: LateJoin # Corvax-Change
   - type: Sprite
     layers:
       - state: green
@@ -558,7 +555,6 @@
   components:
   - type: SpawnPoint
     job_id: TownShopkeeper
-    spawn_type: LateJoin # Corvax-Change
   - type: Sprite
     layers:
       - state: green
@@ -571,7 +567,6 @@
   components:
   - type: SpawnPoint
     job_id: TownDeputy
-    spawn_type: LateJoin # Corvax-Change
   - type: Sprite
     layers:
       - state: green
@@ -584,7 +579,6 @@
   components:
   - type: SpawnPoint
     job_id: TownSheriff
-    spawn_type: LateJoin # Corvax-Change
   - type: Sprite
     layers:
       - state: green
@@ -597,7 +591,6 @@
   components:
   - type: SpawnPoint
     job_id: TownMayor
-    spawn_type: LateJoin # Corvax-Change
   - type: Sprite
     layers:
       - state: green
@@ -612,7 +605,6 @@
   components:
   - type: SpawnPoint
     job_id: Followers
-    spawn_type: LateJoin # Corvax-Change
   - type: Sprite
     layers:
       - state: green
