@@ -9,6 +9,7 @@
   startingGear: FarmerGear
   icon: "JobIconWastelandFarmer" # Corvax-Change
   supervisors: job-supervisors-wastelander
+  alwaysUseSpawner: true # Corvax-Change
   access:
   - WastelandFarmer
   - TownsPerson # Corvax-Change
