@@ -11,12 +11,14 @@
       species:
       - Human
       - Ghoul
+      - Supermutant # Corvax-Change
     - !type:CharacterDepartmentTimeRequirement
       department: Townsfolk
       min: 7200
   startingGear: TownDoctorGear
   icon: "JobIconTownMedic" # Corvax-Change
   supervisors: job-supervisors-townsfolk
+  alwaysUseSpawner: true # Corvax-Change
   access:
   - TownieDoctor
   - TownsPerson # Corvax-Change
