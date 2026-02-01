@@ -11,12 +11,14 @@
       species:
       - Human
       - Ghoul
+      - Supermutant # Corvax-Change
     - !type:CharacterDepartmentTimeRequirement
       department: Townsfolk
       min: 7200 # 2 hours
   startingGear: WastelandBartenderGear
   icon: "JobIconBartender"
   supervisors: job-supervisors-townsfolk
+  alwaysUseSpawner: true # Corvax-Change
   access:
   - WastelandBartender
   - TownsPerson # Corvax-Change
