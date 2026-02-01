@@ -11,6 +11,7 @@
       species:
       - Human
       - Ghoul
+      - Supermutant # Corvax-Change
     - !type:CharacterDepartmentTimeRequirement
       department: Townsfolk
       min: 7200 # 2 hours
@@ -20,6 +21,7 @@
   startingGear: TownShopkeeperGear
   icon: "JobIconTownShopKeeper" # Corvax-Change
   supervisors: job-supervisors-townsfolk
+  alwaysUseSpawner: true # Corvax-Change
   access:
   - TownieShopkeeper
   - TownsPerson # Corvax-Change
