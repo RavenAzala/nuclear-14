@@ -20,9 +20,9 @@
   description: Наспех сделан из грубой кожи и метлолома.
   components:
   - type: Sprite
-    sprite: _Nuclear14/Clothing/OuterClothing/MutantArmor/wild.rsi
+    sprite: _Corvax/Clothing/OuterClothing/MutantArmor/wild.rsi
   - type: Clothing
-    sprite: _Nuclear14/Clothing/OuterClothing/MutantArmor/wild.rsi
+    sprite: _Corvax/Clothing/OuterClothing/MutantArmor/wild.rsi
   - type: Armor
     modifiers:
       coefficients:
@@ -47,9 +47,9 @@
   description: Массивная броня, сварен из нескольких полированных стальных пластин.
   components:
   - type: Sprite
-    sprite: _Nuclear14/Clothing/OuterClothing/MutantArmor/metal.rsi
+    sprite: _Corvax/Clothing/OuterClothing/MutantArmor/metal.rsi
   - type: Clothing
-    sprite: _Nuclear14/Clothing/OuterClothing/MutantArmor/metal.rsi
+    sprite: _Corvax/Clothing/OuterClothing/MutantArmor/metal.rsi
   - type: Armor
     modifiers:
       coefficients:
@@ -74,9 +74,9 @@
   description: Куча газовых труб и пластин, мастерски свареных и нанизанных на кожаное основание.
   components:
   - type: Sprite
-    sprite: _Nuclear14/Clothing/OuterClothing/MutantArmor/master.rsi
+    sprite: _Corvax/Clothing/OuterClothing/MutantArmor/master.rsi
   - type: Clothing
-    sprite: _Nuclear14/Clothing/OuterClothing/MutantArmor/master.rsi
+    sprite: _Corvax/Clothing/OuterClothing/MutantArmor/master.rsi
   - type: Armor
     modifiers:
       coefficients:
